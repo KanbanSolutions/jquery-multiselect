@@ -1,0 +1,22 @@
+{
+  "name": "jquery-multiselect",
+  "version": "0.9.0",
+  "homepage": "https://github.com/KanbanSolutions/jquery-multiselect2side",
+  "authors": [
+    "Dmitry (dio) Levashov, dio@std42.ru"
+  ],
+  "description": "turn regular select boxes into multiple select boxes",
+  "main": "./jquery.multiselect.js",
+  "keywords": [
+    "multiselect",
+    "2side"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
